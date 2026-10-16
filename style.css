@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Helvetica";
-    src: url("fonts/Helvetica/Helvetica.woff") format("woff");
+    src: url("fonts/Helvetica.woff") format("woff");
 }
 @font-face {
     font-family: "Helvetica-B";
-    src: url("fonts/Helvetica/Helvetica-Bold.ttf") format("truetype");
+    src: url("fonts/Helvetica-Bold.ttf") format("truetype");
 }
 @font-face {
     font-family: "Meiryo";
